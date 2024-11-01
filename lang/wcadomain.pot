@@ -1,0 +1,79 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Word Count & Analysis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-13 12:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.0; wp-5.9.2\n"
+"X-Domain: wcadomain"
+
+#: templates/tab-authors.php:6
+msgid "Author"
+msgstr ""
+
+#: templates/tab-authors.php:10 templates/tab-posts.php:9
+msgid "Characters"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://example.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://nurullah.org"
+msgstr ""
+
+#. Author of the plugin
+msgid "Nurullah SERT"
+msgstr ""
+
+#: templates/tab-authors.php:7 templates/tab-authors.php:114
+msgid "Posts"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"See the word counts of your posts and pages and their analysis for seo. "
+"Optimize your articles with reports such as unique word and sentence length."
+msgstr ""
+
+#: templates/tab-authors.php:11 templates/tab-posts.php:10
+msgid "Sentence Length"
+msgstr ""
+
+#: templates/tab-posts.php:6
+msgid "Title"
+msgstr ""
+
+#: templates/tab-authors.php:9 templates/tab-authors.php:126
+#: templates/tab-posts.php:8 templates/tab-posts.php:20
+#: templates/tab-posts.php:33
+msgid "Uniq Words"
+msgstr ""
+
+#: plugin.php:30
+msgid "Word C&A"
+msgstr ""
+
+#. Name of the plugin
+msgid "Word Count & Analysis"
+msgstr ""
+
+#: plugin.php:29
+msgid "Word Count And Analysis"
+msgstr ""
+
+#: templates/tab-authors.php:8 templates/tab-authors.php:120
+#: templates/tab-posts.php:7 templates/tab-posts.php:20
+#: templates/tab-posts.php:27
+msgid "Words"
+msgstr ""
